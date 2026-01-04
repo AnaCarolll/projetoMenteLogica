@@ -1,0 +1,1 @@
+print("bem vindo ao metodo mente logica")

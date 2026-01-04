@@ -1,0 +1,2 @@
+Nessa primeira aula tivemos a instalação do vsCode +
+e da linguagem pyton

@@ -33,3 +33,12 @@ print(2 ** 3) #exponenciacao
 nome = "Ana"
 sobrenome = "Silva"
 print( "Ola meu nome é :", nome + ' ' + sobrenome)
+
+#Comparacoes
+
+maior = 15 > 2
+menor = 5 < 3
+igual = 10 == 10
+diferente = 8 != 4
+print(maior)
+print(menor)

@@ -32,3 +32,6 @@ resultado_soma = soma(20,30)
 
 soma_y = resultado_soma + 100
 print(soma_y)
+
+
+#return => ele vlta  valr da funcao para o escopo global

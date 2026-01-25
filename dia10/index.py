@@ -11,3 +11,6 @@ print(f"A raiz quadrada de {valor} é {raiz}")
 
 from math import pi
 print(f"O valor de pi é {pi}")
+
+#. => diretrio atual(pasta)atual
+#.. => diretorio pai

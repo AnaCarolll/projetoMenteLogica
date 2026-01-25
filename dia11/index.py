@@ -30,3 +30,5 @@ aluno_teste = {
 
 adicionarNota(aluno_teste)
 print(aluno_teste)
+
+#verificar as palavras unicas de uma frase  

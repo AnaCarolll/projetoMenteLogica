@@ -8,8 +8,8 @@
 # finally => sempre executa
 
 
-# arquivo = open("dados.txt", "r" )
-# conteudo = arquivo.read()
+arquivo = open("dados.txt", "r" )
+conteudo = arquivo.read()
 
 try:
     arquivo = open("dados.txt", "r")

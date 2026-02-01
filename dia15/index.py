@@ -22,3 +22,17 @@ p1 = Pessoa("Joaozinho", 33)
 
 #metodo => função dentro de uma classe
 p1.apresentar()
+
+#Retangulo 
+#atributos: largura e altura
+#metodos: calcular_area e calcular_perimetro
+class Retangulo:
+    def __init__(self, largura, altura):
+        self.largura = largura
+        self.altura = altura
+
+    def calcular_area(self):
+        return self.largura * self.altura
+
+    def calcular_perimetro(self):
+        return 2 * (self.largura + self.altura)
